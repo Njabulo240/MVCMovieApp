@@ -1,4 +1,2 @@
 # MVCMovieApp
-# MVCMovieApp
-# MvcMovie
-# MvcMovie
+
